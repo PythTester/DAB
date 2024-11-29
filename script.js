@@ -34,11 +34,11 @@ function saveData() {
 }
 
 const CRYPTO_LOGOS = {
-    bitcoin: "assets/logos/BTCLogo.png",
-    ethereum: "assets/logos/ETHLogo.png",
-    "binance-coin": "assets/logos/BNBLogo.png",
-    algorand: "assets/logos/AlgoLogo.png",
-    solana: "assets/logos/SOLLogo.png"
+    bitcoin: "BTCLogo.png",
+    ethereum: "ETHLogo.png",
+    "binance-coin": "BNBLogo.png",
+    algorand: "AlgoLogo.png",
+    solana: "SOLLogo.png"
 };
 
 async function updatePortfolioDisplay() {
